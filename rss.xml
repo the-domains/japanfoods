@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[japanfoods]]></title>
+        <description><![CDATA[japanfoods]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jul 2016 01:06:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JAPANFOODS]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2467ef69-71a6-4395-bf27-06464585457b.jpg">]]></description>
+            <link>undefinedjapanfoods/index.html</link>
+            <guid isPermaLink="false">0db568c7-1971-42d7-bb18-d2217d2f91be</guid>
+            <pubDate>Tue, 05 Jul 2016 01:06:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
